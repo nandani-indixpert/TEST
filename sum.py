@@ -1,9 +1,7 @@
-def subtract(a,b):
-    return a - b
+def sum(a,b):
+    return a + b
 
-# a = 10
-# b = 20
 
-print(subtract(30,20))
+print(sum(30,20))
 
 
